@@ -1,1 +1,1 @@
-# deneme
+# discord bot altyapı
